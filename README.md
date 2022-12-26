@@ -12,5 +12,3 @@ Welcome to SQL repository.
 
 -Understanding ER Diagrams and developing database from the same.
 
--
-
